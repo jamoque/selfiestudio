@@ -1,3 +1,5 @@
+//Created by Daniel Monroy, Jeremy Hintz, and Lauren McKenna
+
 package jhintz.selfiestudio;
 
 import android.support.v7.app.ActionBarActivity;
